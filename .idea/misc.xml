@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/ic_cdnlogo_com_swift.xml" value="0.2155" />
+        <entry key="app/src/main/res/drawable/ic_kotlin__programming_language__logo_wine.xml" value="0.2155" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_mainSwift.xml" value="0.30512820512820515" />
+        <entry key="app/src/main/res/layout/activity_mainswift.xml" value="0.20887738689116972" />
+        <entry key="app/src/main/res/layout/buttonaction.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/custom_layoutone.xml" value="0.2976190476190476" />
+        <entry key="app/src/main/res/layout/custom_layoutoneSwift.xml" value="0.30512820512820515" />
+        <entry key="app/src/main/res/layout/custom_layoutoneswift.xml" value="0.203125" />
+        <entry key="app/src/main/res/layout/exam.xml" value="0.3041025641025641" />
+        <entry key="app/src/main/res/layout/fragment_kotlin.xml" value="0.29128205128205126" />
+        <entry key="app/src/main/res/layout/fragment_setting.xml" value="0.30512820512820515" />
+        <entry key="app/src/main/res/layout/fragment_swift.xml" value="0.30512820512820515" />
+        <entry key="app/src/main/res/layout/youtub.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/barbatton.xml" value="0.30512820512820515" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
